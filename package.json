@@ -1,0 +1,14 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Buscador de pokemones y sus caracteristicas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokedex"
+  ],
+  "author": "Lucia Espinoza",
+  "license": "ISC"
+}

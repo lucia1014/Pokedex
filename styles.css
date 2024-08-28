@@ -1,0 +1,38 @@
+.pokemon-card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.pokemon-card:hover {
+    transform: scale(1.05);
+}
+
+.pokemon-type {
+    display: inline-block;
+    padding: 0.2rem 0.4rem;
+    margin-right: 0.5rem;
+    border-radius: 0.25rem;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.type-normal { background-color: #ffc2e9; color: black;}
+.type-fighting { background-color: #dac4b4; color: #4d3e39;}
+.type-flying { background-color: #3b94f9; }
+.type-poison { background-color: #A040A0; }
+.type-ground { background-color: #4d3e39; }
+.type-rock { background-color: #535757; }
+.type-bug { background-color: #e40662; }
+.type-ghost { background-color: #c6bbc6; color: black; }
+.type-steel { background-color: #9e9e9e; color: black; }
+.type-fire { background-color: #ff0000; }
+.type-water { background-color: #005eff; }
+.type-grass { background-color: #269d2a; }
+.type-electric { background-color: #ffee00; color: black;}
+.type-psychic { background-color: #890189; }
+.type-ice { background-color: #cbf1ff; color: blue;;}
+.type-dragon { background-color: #ff2a00; color: yellow;}
+.type-dark { background-color: #000000;}
+.type-fairy { background-color: #ff20c7; }
+.type-stellar { background-color: #57f9ff; }
+.type-unknown { background-color: #85adc5; }
+
