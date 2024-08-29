@@ -1,5 +1,5 @@
 const API_URL = 'https://pokeapi.co/api/v2/pokemon/';
-const POKEMON_COUNT = 150;
+const POKEMON_COUNT = 1302;
 
 class Pokemon {
     constructor(name, types, sprites, id) {
